@@ -38,5 +38,4 @@ The folder contains:
 * `customer_segment.pbix` the powerbi dashboard created- this should be opened with powerbi desktop
 
 
-# Licensing And Authors
-This code was created by Jessica Ogwu under the GPL-3.0 license. Please feel free to use the resources as you deem fit.
+
